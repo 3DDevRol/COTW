@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/voidt/Desktop/Unreal Practice/SETBG_WASTELAND/Content/Level_Blank.umap",
+				"C:/Users/voidt/Desktop/Unreal Practice/SETBG_WASTELAND/Content/WBP_MainInterface.uasset",
+				"C:/Users/voidt/Desktop/Unreal Practice/SETBG_WASTELAND/Content/Data/DT_Book.uasset",
+				"C:/Users/voidt/Desktop/Unreal Practice/SETBG_WASTELAND/Content/Data/Struct_Page.uasset",
+				"C:/Users/voidt/Desktop/Unreal Practice/SETBG_WASTELAND/Content/Level/Level_Blank.umap",
+				"C:/Users/voidt/Desktop/Unreal Practice/SETBG_WASTELAND/Content/Widgets/WBP_UserChoice.uasset",
+				"C:/Users/voidt/Desktop/Unreal Practice/SETBG_WASTELAND/Content/Widgets/WBP_MainInterface.uasset",
+				"C:/Users/voidt/Desktop/Unreal Practice/SETBG_WASTELAND/Content/Textures/Big_Beach_Small_size.uasset",
+				"C:/Users/voidt/Desktop/Unreal Practice/SETBG_WASTELAND/Content/Textures/Tech_Arch.uasset",
+				"C:/Users/voidt/Desktop/Unreal Practice/SETBG_WASTELAND/Content/Textures/Prototype_Hollow_Buildings.uasset",
+				"C:/Users/voidt/Desktop/Unreal Practice/SETBG_WASTELAND/Content/Data/Enum_Positions.uasset",
+				"C:/Users/voidt/Desktop/Unreal Practice/SETBG_WASTELAND/Content/Data/Struct_Image.uasset",
+				"C:/Users/voidt/Desktop/Unreal Practice/SETBG_WASTELAND/Content/Widgets/WBP_ImageWithPosition.uasset",
+				"C:/Users/voidt/Desktop/Unreal Practice/SETBG_WASTELAND/Content/Struct_Page.uasset",
+				"C:/Users/voidt/Desktop/Unreal Practice/SETBG_WASTELAND/Content/TextBasedGame_-_Sheet1.uasset",
+				"C:/Users/voidt/Desktop/Unreal Practice/SETBG_WASTELAND/Content/DT_Book.uasset",
+				"C:/Users/voidt/Desktop/Unreal Practice/SETBG_WASTELAND/Content/WBP_UserChoice.uasset"
+			]
+		}
+	]
+}
